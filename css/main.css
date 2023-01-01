@@ -1,5 +1,21 @@
 body {
-    background: #FFFFFF;
     color: #000000;
-}
+    background-image: url("../images/shoto-W.png");
+    background-size: 900px;
+    background-position: center;
+    background-attachment: fixed ;
+    background-repeat: no-repeat ;
 
+}
+.ema-nel{
+    color: darkviolet;
+}
+.turfu{
+    color: mediumblue;
+    marker: none;
+}
+img{
+
+    max-width: 100%;
+    height: auto;
+}
