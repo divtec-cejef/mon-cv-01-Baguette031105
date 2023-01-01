@@ -5,6 +5,17 @@ body {
     background-position: center;
     background-attachment: fixed ;
     background-repeat: no-repeat ;
+    background-color: darkseagreen;
+
+}
+ol {
+    font-family: Lobster;
+    font-size: 2em;
+}
+h2 {
+    font-family: "Comic Sans MS";
+    font-size: 3em;
+    background: linear-gradient(#000049, #1cb5e0);
 
 }
 .ema-nel{
@@ -14,8 +25,22 @@ body {
     color: mediumblue;
     marker: none;
 }
+ul{
+    font-family: Consolas;
+}
+.int-emo{
+    font-weight: bolder;
+}
 img{
 
     max-width: 100%;
     height: auto;
+}
+.email{
+    font-weight: bold;
+    text-decoration-line: none;
+}
+foot {
+    font-family: SimSun;
+
 }
