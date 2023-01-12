@@ -3,43 +3,57 @@ body {
     background-image: url("../images/shoto-W.png");
     background-size: 900px;
     background-position: center;
-    background-attachment: fixed ;
-    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-color: darkseagreen;
     font-weight: normal;
 
 }
+
+img.photo {
+    height: 20%;
+    width: 18%;
+    filter: drop-shadow(16px 16px 10px darkgreen);
+}
+
 ol {
     font-family: Lobster;
     font-size: 2em;
 }
+
 h2 {
     font-family: "Roboto";
     font-size: 3em;
 }
-.ema-nel{
+
+.ema-nel {
     color: darkviolet;
 }
-.turfu{
+
+.turfu {
     color: mediumblue;
-    font-size: 3em;
-    font-weight: bold;
+    font-size: 1em;
     font-family: "Arial Black";
 }
-ul{
+
+ul {
     font-family: Consolas;
 }
-.int-emo{
+
+.int-emo {
     font-weight: bolder;
 }
-img{
+
+img {
 
     max-width: 100%;
     height: auto;
 }
-.email{
+
+.email {
     font-weight: bold;
 }
+
 foot {
     font-family: SimSun;
 
