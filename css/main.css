@@ -2,7 +2,7 @@ body {
     color: #000000;
     background-image: url("../images/shoto-W.png");
     background-size: 900px;
-    background-position: center;
+    background-position: right;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: darkseagreen;
@@ -17,7 +17,7 @@ img.photo {
 }
 
 ol {
-    font-family: Lobster;
+    font-family: Roboto;
     font-size: 2em;
 }
 
