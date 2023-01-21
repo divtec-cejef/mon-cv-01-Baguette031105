@@ -1,13 +1,12 @@
 body {
     color: #000000;
-    background-image: url("../images/shoto-W.png");
+    background-image: url("../images/shoto-w.png");
     background-size: 900px;
     background-position: right;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: darkseagreen;
     font-weight: normal;
-
 }
 
 img.photo {
@@ -15,17 +14,23 @@ img.photo {
     width: 18%;
     filter: drop-shadow(16px 16px 10px darkgreen);
 }
+img.photo:hover {
+    filter: none;
+}
 
 ol {
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-size: 2em;
 }
 
 h2 {
-    font-family: "Roboto";
+    font-family: "Roboto", serif;
     font-size: 3em;
 }
 
+a:hover {
+    text-decoration: none;
+}
 .ema-nel {
     color: darkviolet;
 }
@@ -33,11 +38,11 @@ h2 {
 .turfu {
     color: mediumblue;
     font-size: 1em;
-    font-family: "Arial Black";
+    font-family: "Arial Black", sans-serif;
 }
 
 ul {
-    font-family: Consolas;
+    font-family: Consolas, serif;
 }
 
 .int-emo {
@@ -45,7 +50,6 @@ ul {
 }
 
 img {
-
     max-width: 100%;
     height: auto;
 }
@@ -54,7 +58,7 @@ img {
     font-weight: bold;
 }
 
-foot {
-    font-family: SimSun;
-
+footer {
+    font-family: SimSun, sans-serif;
+    font-weight: normal;
 }
