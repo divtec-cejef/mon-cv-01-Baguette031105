@@ -1,4 +1,6 @@
 body {
+    font-family: Consolas, serif;
+    font-size:1.2rem;
     color: #000000;
     background-image: url("../images/shoto-w.png");
     background-size: 900px;
@@ -6,7 +8,6 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: darkseagreen;
-    font-weight: normal;
 }
 
 img.photo {
@@ -18,10 +19,9 @@ img.photo:hover {
     filter: none;
 }
 
-ol {
-    font-family: Roboto, serif;
-    font-size: 2em;
-}
+/*ol {
+    font-size: 1.2rem;
+}*/
 
 h2 {
     font-family: "Roboto", serif;
