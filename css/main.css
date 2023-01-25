@@ -34,9 +34,10 @@ a:hover {
 .ema-nel {
     color: darkviolet;
 }
-strong{
+strong:hover{
     font-family: sans-serif;
     color: blueviolet;
+    text-decoration:transparent;
 }
 
 ul {
