@@ -1,0 +1,63 @@
+body {
+    font-family: Consolas, serif;
+    font-size:1.2rem;
+    color: #000000;
+    background-image: url("../images/shoto-w.png");
+    background-size: 900px;
+    background-position: right;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: darkseagreen;
+}
+
+img.photo {
+    height: 20%;
+    width: 18%;
+    filter: drop-shadow(16px 16px 10px darkgreen);
+}
+img.photo:hover {
+    filter: none;
+}
+
+/*ol {
+    font-size: 1.2rem;
+}*/
+
+h2 {
+    font-family: "Roboto", serif;
+    font-size: 3em;
+}
+
+a:hover {
+    text-decoration: none;
+}
+.ema-nel {
+    color: darkviolet;
+}
+strong:hover{
+    font-family: sans-serif;
+    color: blueviolet;
+    text-decoration:transparent;
+}
+
+ul {
+    font-family: Consolas, serif;
+}
+
+.int-emo {
+    font-weight: bolder;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.email {
+    font-weight: bold;
+}
+
+footer {
+    font-family: SimSun, sans-serif;
+    font-weight: normal;
+}
