@@ -34,11 +34,9 @@ a:hover {
 .ema-nel {
     color: darkviolet;
 }
-
-.turfu {
-    color: mediumblue;
-    font-size: 1em;
-    font-family: "Arial Black", sans-serif;
+strong{
+    font-family: sans-serif;
+    color: blueviolet;
 }
 
 ul {
